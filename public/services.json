@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 1,
+        "name": "Corporate Delivery",
+        "price": "1200",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/bzSw4NG/corporate-and-bulk-delivery-500x500-1.png"
+    },
+    {
+        "_id": 2,
+        "name": "Personal Delivery",
+        "price": "1000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/YPByZhT/person-to-person-done.png"
+    },
+    {
+        "_id": 3,
+        "name": "Letter Delivery",
+        "price": "800",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/X2TRwM5/letter.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "Package Delivery",
+        "price": "1200",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/MsvTcRN/delivery-man-holding-pile-of-cardboard-boxes-in-front-copy-space.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Food Delivery",
+        "price": "800",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/XjQjdPd/food-delivery.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Trailer Delivery",
+        "price": "1100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/1fYv9Jx/duo-trailer-deliver.jpg"
+    }
+]

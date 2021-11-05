@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "name": "Axon Peter",
+        "experience": "2 years",
+        "img": "https://i.ibb.co/wQZWPDH/8.png"
+    },
+    {
+        "_id": 2,
+        "name": "Anderson Gomez",
+        "experience": "1 year",
+        "img": "https://i.ibb.co/X4Tv908/7.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Mathew Anthony",
+        "experience": "1 year",
+        "img": "https://i.ibb.co/SmBJ816/6.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "Robert Anderson",
+        "experience": "3 years",
+        "img": "https://i.ibb.co/8zgQhKv/5.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Chris Lyn",
+        "experience": "2 years",
+        "img": "https://i.ibb.co/XWyfcrj/4.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Walter Mano",
+        "experience": "2 years",
+        "img": "https://i.ibb.co/bKVStd7/3.jpg"
+    },
+    {
+        "_id": 7,
+        "name": "Gustavo Fring",
+        "experience": "3 years",
+        "img": "https://i.ibb.co/VgS4bxw/2.jpg"
+    },
+    {
+        "_id": 8,
+        "name": "Riot Vanguard",
+        "experience": "3 years",
+        "img": "https://i.ibb.co/LPr9xxh/Happy-young-courier-holding-a-cardboard-box-and-smiling-while-standing-against-white-background.jpg"
+    }
+]
