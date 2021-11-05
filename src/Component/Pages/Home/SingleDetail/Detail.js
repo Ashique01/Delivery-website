@@ -13,7 +13,7 @@ const Detail = () => {
     const [singleDetail, setSingleDetail] = useState({})
     const { user } = useAuth();
     useEffect(() => {
-        fetch('http://localhost:5000/services')
+        fetch('https://powerful-tor-93554.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setDetails(data));
     }, [])
@@ -25,7 +25,7 @@ const Detail = () => {
     const { register, handleSubmit } = useForm();
     const onSubmit = data => {
         console.log(data);
-        fetch('http://localhost:5000/confirmOrder', {
+        fetch('https://powerful-tor-93554.herokuapp.com/confirmOrder', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

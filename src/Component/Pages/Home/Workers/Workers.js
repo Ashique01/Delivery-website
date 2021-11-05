@@ -5,7 +5,7 @@ import Worker from '../Worker/Worker';
 const Workers = () => {
     const [workers, setWorkers] = useState([])
     useEffect(() => {
-        fetch('http://localhost:5000/workers')
+        fetch('https://powerful-tor-93554.herokuapp.com/workers')
             .then(res => res.json())
             .then(data => setWorkers(data));
     }, [])
