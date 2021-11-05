@@ -17,7 +17,7 @@ This is Delivery base website.Here there are some delivery services.Anyone can g
 ## Server Site Link
 * https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Ashique01
 ## Live Site Link
-* https://delivery-management-syst-93325.web.app/home#home
+* https://delivery-management-syst-93325.web.app/
 
 #### IF you want to clone
 * First setup .env.local in client site
